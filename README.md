@@ -1,6 +1,6 @@
 # Sony Xperia Castor LTE Lineage 18.1
 
-A Sony Xperia Castor LTE Lineage 18.1 With Cache Fix and Fastboot Size Fix.
+A Sony Xperia Castor LTE Lineage 18.1 With ADB Cache Fix and Fastboot Size Fix.
 
 ## Zip Contains
 
